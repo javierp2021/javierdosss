@@ -1,0 +1,18 @@
+header {
+  background-color: brown;
+}
+
+header h3 {
+  color: blue;
+}
+
+.clase2 {
+  color: blue;
+}
+
+container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+/*# sourceMappingURL=estilos.css.map */
